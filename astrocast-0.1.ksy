@@ -96,7 +96,7 @@ types:
         type: str
         terminator: 44
         encoding: UTF-8
-      - id: latitu_dd_mm
+      - id: latitud_dd_mm
         type: str
         terminator: 44
         encoding: UTF-8
