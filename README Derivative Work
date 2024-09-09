@@ -1,8 +1,9 @@
 This file describe the additions to the Derivative Work branch.
 
+09/09/2024
 The file astrocast-0.1.ksy is developed from the original 
 ax25_frame_parser.ksy, but adding a section to parse the 
-ax25_info content of the astrocast satellite packet, using 
+ax25_info content of the Astrocast 0.1 satellite packet, using 
 as guidance the satellite packet information as described in 
 the web site https://destevez.net/2018/12/decoding-astrocast-0-1/
 
